@@ -1,0 +1,31 @@
+<mxfile>
+  <diagram id="ea1" name="EA">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+
+        <mxCell id="usager" value="Usager" style="rounded=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="120" height="60" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="livre" value="Livre" style="rounded=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="300" y="40" width="120" height="60" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="emprunt" value="Emprunt" style="rounded=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="170" y="180" width="120" height="60" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="edge1" value="1..N" edge="1" parent="1" source="usager" target="emprunt">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="edge2" value="1..N" edge="1" parent="1" source="livre" target="emprunt">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
