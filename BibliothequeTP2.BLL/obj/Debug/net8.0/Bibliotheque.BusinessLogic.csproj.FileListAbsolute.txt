@@ -1,0 +1,17 @@
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\Bibliotheque.BusinessLogic\bin\Debug\net8.0\Bibliotheque.BusinessLogic.deps.json
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\Bibliotheque.BusinessLogic\bin\Debug\net8.0\Bibliotheque.BusinessLogic.dll
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\Bibliotheque.BusinessLogic\bin\Debug\net8.0\Bibliotheque.BusinessLogic.pdb
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\Bibliotheque.BusinessLogic\bin\Debug\net8.0\Bibliotheque.DataAccess.dll
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\Bibliotheque.BusinessLogic\bin\Debug\net8.0\Bibliotheque.Models.dll
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\Bibliotheque.BusinessLogic\bin\Debug\net8.0\Bibliotheque.Models.pdb
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\Bibliotheque.BusinessLogic\bin\Debug\net8.0\Bibliotheque.DataAccess.pdb
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\Bibliotheque.BusinessLogic\obj\Debug\net8.0\Bibliotheque.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\Bibliotheque.BusinessLogic\obj\Debug\net8.0\Bibliotheque.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\Bibliotheque.BusinessLogic\obj\Debug\net8.0\Bibliotheque.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\Bibliotheque.BusinessLogic\obj\Debug\net8.0\Bibliotheque.BusinessLogic.AssemblyInfo.cs
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\Bibliotheque.BusinessLogic\obj\Debug\net8.0\Bibliotheque.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\Bibliotheque.BusinessLogic\obj\Debug\net8.0\Biblioth.60CC3B58.Up2Date
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\Bibliotheque.BusinessLogic\obj\Debug\net8.0\Bibliotheque.BusinessLogic.dll
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\Bibliotheque.BusinessLogic\obj\Debug\net8.0\refint\Bibliotheque.BusinessLogic.dll
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\Bibliotheque.BusinessLogic\obj\Debug\net8.0\Bibliotheque.BusinessLogic.pdb
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\Bibliotheque.BusinessLogic\obj\Debug\net8.0\ref\Bibliotheque.BusinessLogic.dll

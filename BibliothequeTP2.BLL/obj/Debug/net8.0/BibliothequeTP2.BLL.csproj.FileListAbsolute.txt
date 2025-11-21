@@ -1,0 +1,17 @@
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\BibliothequeTP2.BLL\bin\Debug\net8.0\BibliothequeTP2.BLL.deps.json
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\BibliothequeTP2.BLL\bin\Debug\net8.0\BibliothequeTP2.BLL.dll
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\BibliothequeTP2.BLL\bin\Debug\net8.0\BibliothequeTP2.BLL.pdb
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\BibliothequeTP2.BLL\bin\Debug\net8.0\BibliothequeTP2.DAL.dll
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\BibliothequeTP2.BLL\bin\Debug\net8.0\BibliothequeTP2.Entities.dll
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\BibliothequeTP2.BLL\bin\Debug\net8.0\BibliothequeTP2.Entities.pdb
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\BibliothequeTP2.BLL\bin\Debug\net8.0\BibliothequeTP2.DAL.pdb
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\BibliothequeTP2.BLL\obj\Debug\net8.0\BibliothequeTP2.BLL.csproj.AssemblyReference.cache
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\BibliothequeTP2.BLL\obj\Debug\net8.0\BibliothequeTP2.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\BibliothequeTP2.BLL\obj\Debug\net8.0\BibliothequeTP2.BLL.AssemblyInfoInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\BibliothequeTP2.BLL\obj\Debug\net8.0\BibliothequeTP2.BLL.AssemblyInfo.cs
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\BibliothequeTP2.BLL\obj\Debug\net8.0\BibliothequeTP2.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\BibliothequeTP2.BLL\obj\Debug\net8.0\Biblioth.2526981D.Up2Date
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\BibliothequeTP2.BLL\obj\Debug\net8.0\BibliothequeTP2.BLL.dll
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\BibliothequeTP2.BLL\obj\Debug\net8.0\refint\BibliothequeTP2.BLL.dll
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\BibliothequeTP2.BLL\obj\Debug\net8.0\BibliothequeTP2.BLL.pdb
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\BibliothequeTP2.BLL\obj\Debug\net8.0\ref\BibliothequeTP2.BLL.dll

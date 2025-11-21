@@ -1,0 +1,255 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\OneDrive\\Desktop\\bibliotheque\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E5F6A7-B8C9-4D5E-9F0A-3B4C5D6E7F8A}|BibliothequeTP2\\BibliothequeTP2.csproj|c:\\users\\administrator\\onedrive\\desktop\\bibliotheque\\bibliothequetp2\\bibliothequetp2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D4E5F6A7-B8C9-4D5E-9F0A-3B4C5D6E7F8A}|BibliothequeTP2\\BibliothequeTP2.csproj|solutionrelative:bibliothequetp2\\bibliothequetp2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E5F6A7-B8C9-4D5E-9F0A-3B4C5D6E7F8A}|BibliothequeTP2\\BibliothequeTP2.csproj|c:\\users\\administrator\\onedrive\\desktop\\bibliotheque\\bibliothequetp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4E5F6A7-B8C9-4D5E-9F0A-3B4C5D6E7F8A}|BibliothequeTP2\\BibliothequeTP2.csproj|solutionrelative:bibliothequetp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E5F6A7-B8C9-4D5E-9F0A-3B4C5D6E7F8A}|BibliothequeTP2\\BibliothequeTP2.csproj|c:\\users\\administrator\\onedrive\\desktop\\bibliotheque\\bibliothequetp2\\uihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4E5F6A7-B8C9-4D5E-9F0A-3B4C5D6E7F8A}|BibliothequeTP2\\BibliothequeTP2.csproj|solutionrelative:bibliothequetp2\\uihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D4E5F6-A7B8-4C5D-9E0F-2A3B4C5D6E7F}|BibliothequeTP2.BLL\\BibliothequeTP2.BLL.csproj|c:\\users\\administrator\\onedrive\\desktop\\bibliotheque\\bibliothequetp2.bll\\services\\usagerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D4E5F6-A7B8-4C5D-9E0F-2A3B4C5D6E7F}|BibliothequeTP2.BLL\\BibliothequeTP2.BLL.csproj|solutionrelative:bibliothequetp2.bll\\services\\usagerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-0E1F2A3B4C5D}|BibliothequeTP2.Entities\\BibliothequeTP2.Entities.csproj|c:\\users\\administrator\\onedrive\\desktop\\bibliotheque\\bibliothequetp2.entities\\bibliothequetp2.entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-0E1F2A3B4C5D}|BibliothequeTP2.Entities\\BibliothequeTP2.Entities.csproj|solutionrelative:bibliothequetp2.entities\\bibliothequetp2.entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C3D4E5-F6A7-4B5C-9D0E-1F2A3B4C5D6E}|BibliothequeTP2.DAL\\BibliothequeTP2.DAL.csproj|c:\\users\\administrator\\onedrive\\desktop\\bibliotheque\\bibliothequetp2.dal\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C3D4E5-F6A7-4B5C-9D0E-1F2A3B4C5D6E}|BibliothequeTP2.DAL\\BibliothequeTP2.DAL.csproj|solutionrelative:bibliothequetp2.dal\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C3D4E5-F6A7-4B5C-9D0E-1F2A3B4C5D6E}|BibliothequeTP2.DAL\\BibliothequeTP2.DAL.csproj|c:\\users\\administrator\\onedrive\\desktop\\bibliotheque\\bibliothequetp2.dal\\repositories\\usagerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C3D4E5-F6A7-4B5C-9D0E-1F2A3B4C5D6E}|BibliothequeTP2.DAL\\BibliothequeTP2.DAL.csproj|solutionrelative:bibliothequetp2.dal\\repositories\\usagerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C3D4E5-F6A7-4B5C-9D0E-1F2A3B4C5D6E}|BibliothequeTP2.DAL\\BibliothequeTP2.DAL.csproj|c:\\users\\administrator\\onedrive\\desktop\\bibliotheque\\bibliothequetp2.dal\\repositories\\livrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C3D4E5-F6A7-4B5C-9D0E-1F2A3B4C5D6E}|BibliothequeTP2.DAL\\BibliothequeTP2.DAL.csproj|solutionrelative:bibliothequetp2.dal\\repositories\\livrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C3D4E5-F6A7-4B5C-9D0E-1F2A3B4C5D6E}|BibliothequeTP2.DAL\\BibliothequeTP2.DAL.csproj|c:\\users\\administrator\\onedrive\\desktop\\bibliotheque\\bibliothequetp2.dal\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C3D4E5-F6A7-4B5C-9D0E-1F2A3B4C5D6E}|BibliothequeTP2.DAL\\BibliothequeTP2.DAL.csproj|solutionrelative:bibliothequetp2.dal\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C3D4E5-F6A7-4B5C-9D0E-1F2A3B4C5D6E}|BibliothequeTP2.DAL\\BibliothequeTP2.DAL.csproj|c:\\users\\administrator\\onedrive\\desktop\\bibliotheque\\bibliothequetp2.dal\\repositories\\empruntrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C3D4E5-F6A7-4B5C-9D0E-1F2A3B4C5D6E}|BibliothequeTP2.DAL\\BibliothequeTP2.DAL.csproj|solutionrelative:bibliothequetp2.dal\\repositories\\empruntrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D4E5F6-A7B8-4C5D-9E0F-2A3B4C5D6E7F}|BibliothequeTP2.BLL\\BibliothequeTP2.BLL.csproj|c:\\users\\administrator\\onedrive\\desktop\\bibliotheque\\bibliothequetp2.bll\\services\\empruntservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D4E5F6-A7B8-4C5D-9E0F-2A3B4C5D6E7F}|BibliothequeTP2.BLL\\BibliothequeTP2.BLL.csproj|solutionrelative:bibliothequetp2.bll\\services\\empruntservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D4E5F6-A7B8-4C5D-9E0F-2A3B4C5D6E7F}|BibliothequeTP2.BLL\\BibliothequeTP2.BLL.csproj|c:\\users\\administrator\\onedrive\\desktop\\bibliotheque\\bibliothequetp2.bll\\services\\livreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D4E5F6-A7B8-4C5D-9E0F-2A3B4C5D6E7F}|BibliothequeTP2.BLL\\BibliothequeTP2.BLL.csproj|solutionrelative:bibliothequetp2.bll\\services\\livreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E5F6A7-B8C9-4D5E-9F0A-3B4C5D6E7F8A}|BibliothequeTP2\\BibliothequeTP2.csproj|c:\\users\\administrator\\onedrive\\desktop\\bibliotheque\\bibliothequetp2\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4E5F6A7-B8C9-4D5E-9F0A-3B4C5D6E7F8A}|BibliothequeTP2\\BibliothequeTP2.csproj|solutionrelative:bibliothequetp2\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E5F6A7-B8C9-4D5E-9F0A-3B4C5D6E7F8A}|BibliothequeTP2\\BibliothequeTP2.csproj|c:\\users\\administrator\\onedrive\\desktop\\bibliotheque\\bibliothequetp2\\bibliothequetp2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D4E5F6A7-B8C9-4D5E-9F0A-3B4C5D6E7F8A}|BibliothequeTP2\\BibliothequeTP2.csproj|solutionrelative:bibliothequetp2\\bibliothequetp2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BibliothequeTP2",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Desktop\\bibliotheque\\BibliothequeTP2\\BibliothequeTP2.csproj",
+              "RelativeDocumentMoniker": "BibliothequeTP2\\BibliothequeTP2.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Desktop\\bibliotheque\\BibliothequeTP2\\BibliothequeTP2.csproj",
+              "RelativeToolTip": "BibliothequeTP2\\BibliothequeTP2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-20T23:14:43.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsagerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Desktop\\bibliotheque\\BibliothequeTP2.DAL\\Repositories\\UsagerRepository.cs",
+              "RelativeDocumentMoniker": "BibliothequeTP2.DAL\\Repositories\\UsagerRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Desktop\\bibliotheque\\BibliothequeTP2.DAL\\Repositories\\UsagerRepository.cs",
+              "RelativeToolTip": "BibliothequeTP2.DAL\\Repositories\\UsagerRepository.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAswAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T18:30:30.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LivreRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Desktop\\bibliotheque\\BibliothequeTP2.DAL\\Repositories\\LivreRepository.cs",
+              "RelativeDocumentMoniker": "BibliothequeTP2.DAL\\Repositories\\LivreRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Desktop\\bibliotheque\\BibliothequeTP2.DAL\\Repositories\\LivreRepository.cs",
+              "RelativeToolTip": "BibliothequeTP2.DAL\\Repositories\\LivreRepository.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAowAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T18:30:10.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Desktop\\bibliotheque\\BibliothequeTP2.DAL\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "BibliothequeTP2.DAL\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Desktop\\bibliotheque\\BibliothequeTP2.DAL\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "BibliothequeTP2.DAL\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T18:30:01.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmpruntRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Desktop\\bibliotheque\\BibliothequeTP2.DAL\\Repositories\\EmpruntRepository.cs",
+              "RelativeDocumentMoniker": "BibliothequeTP2.DAL\\Repositories\\EmpruntRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Desktop\\bibliotheque\\BibliothequeTP2.DAL\\Repositories\\EmpruntRepository.cs",
+              "RelativeToolTip": "BibliothequeTP2.DAL\\Repositories\\EmpruntRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIBAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T18:28:49.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UIHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Desktop\\bibliotheque\\BibliothequeTP2\\UIHelper.cs",
+              "RelativeDocumentMoniker": "BibliothequeTP2\\UIHelper.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Desktop\\bibliotheque\\BibliothequeTP2\\UIHelper.cs",
+              "RelativeToolTip": "BibliothequeTP2\\UIHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T18:09:08.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Desktop\\bibliotheque\\BibliothequeTP2\\Program.cs",
+              "RelativeDocumentMoniker": "BibliothequeTP2\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Desktop\\bibliotheque\\BibliothequeTP2\\Program.cs",
+              "RelativeToolTip": "BibliothequeTP2\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T16:44:39.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BibliothequeTP2.Entities.csproj",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Desktop\\bibliotheque\\BibliothequeTP2.Entities\\BibliothequeTP2.Entities.csproj",
+              "RelativeDocumentMoniker": "BibliothequeTP2.Entities\\BibliothequeTP2.Entities.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Desktop\\bibliotheque\\BibliothequeTP2.Entities\\BibliothequeTP2.Entities.csproj",
+              "RelativeToolTip": "BibliothequeTP2.Entities\\BibliothequeTP2.Entities.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-20T18:31:18.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsagerService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Desktop\\bibliotheque\\BibliothequeTP2.BLL\\Services\\UsagerService.cs",
+              "RelativeDocumentMoniker": "BibliothequeTP2.BLL\\Services\\UsagerService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Desktop\\bibliotheque\\BibliothequeTP2.BLL\\Services\\UsagerService.cs",
+              "RelativeToolTip": "BibliothequeTP2.BLL\\Services\\UsagerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T16:18:34.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DbConnection.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Desktop\\bibliotheque\\BibliothequeTP2.DAL\\DbConnection.cs",
+              "RelativeDocumentMoniker": "BibliothequeTP2.DAL\\DbConnection.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Desktop\\bibliotheque\\BibliothequeTP2.DAL\\DbConnection.cs",
+              "RelativeToolTip": "BibliothequeTP2.DAL\\DbConnection.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T15:51:35.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MenuPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Desktop\\bibliotheque\\BibliothequeTP2\\MenuPrincipal.cs",
+              "RelativeDocumentMoniker": "BibliothequeTP2\\MenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Desktop\\bibliotheque\\BibliothequeTP2\\MenuPrincipal.cs",
+              "RelativeToolTip": "BibliothequeTP2\\MenuPrincipal.cs",
+              "ViewState": "AgIAABIEAAAAAAAAAAAAAOgDAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T17:19:59.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmpruntService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Desktop\\bibliotheque\\BibliothequeTP2.BLL\\Services\\EmpruntService.cs",
+              "RelativeDocumentMoniker": "BibliothequeTP2.BLL\\Services\\EmpruntService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Desktop\\bibliotheque\\BibliothequeTP2.BLL\\Services\\EmpruntService.cs",
+              "RelativeToolTip": "BibliothequeTP2.BLL\\Services\\EmpruntService.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T16:18:10.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LivreService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Desktop\\bibliotheque\\BibliothequeTP2.BLL\\Services\\LivreService.cs",
+              "RelativeDocumentMoniker": "BibliothequeTP2.BLL\\Services\\LivreService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Desktop\\bibliotheque\\BibliothequeTP2.BLL\\Services\\LivreService.cs",
+              "RelativeToolTip": "BibliothequeTP2.BLL\\Services\\LivreService.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAADwvwYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T15:50:51.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BibliothequeTP2",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Desktop\\bibliotheque\\BibliothequeTP2\\BibliothequeTP2.csproj",
+              "RelativeDocumentMoniker": "BibliothequeTP2\\BibliothequeTP2.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Desktop\\bibliotheque\\BibliothequeTP2\\BibliothequeTP2.csproj",
+              "RelativeToolTip": "BibliothequeTP2\\BibliothequeTP2.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-20T16:16:23.133Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

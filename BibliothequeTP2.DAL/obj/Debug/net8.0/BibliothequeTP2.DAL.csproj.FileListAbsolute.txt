@@ -1,0 +1,15 @@
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\BibliothequeTP2.DAL\bin\Debug\net8.0\BibliothequeTP2.DAL.deps.json
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\BibliothequeTP2.DAL\bin\Debug\net8.0\BibliothequeTP2.DAL.dll
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\BibliothequeTP2.DAL\bin\Debug\net8.0\BibliothequeTP2.DAL.pdb
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\BibliothequeTP2.DAL\bin\Debug\net8.0\BibliothequeTP2.Entities.dll
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\BibliothequeTP2.DAL\bin\Debug\net8.0\BibliothequeTP2.Entities.pdb
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\BibliothequeTP2.DAL\obj\Debug\net8.0\BibliothequeTP2.DAL.csproj.AssemblyReference.cache
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\BibliothequeTP2.DAL\obj\Debug\net8.0\BibliothequeTP2.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\BibliothequeTP2.DAL\obj\Debug\net8.0\BibliothequeTP2.DAL.AssemblyInfoInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\BibliothequeTP2.DAL\obj\Debug\net8.0\BibliothequeTP2.DAL.AssemblyInfo.cs
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\BibliothequeTP2.DAL\obj\Debug\net8.0\BibliothequeTP2.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\BibliothequeTP2.DAL\obj\Debug\net8.0\Biblioth.1CAF8E87.Up2Date
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\BibliothequeTP2.DAL\obj\Debug\net8.0\BibliothequeTP2.DAL.dll
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\BibliothequeTP2.DAL\obj\Debug\net8.0\refint\BibliothequeTP2.DAL.dll
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\BibliothequeTP2.DAL\obj\Debug\net8.0\BibliothequeTP2.DAL.pdb
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\BibliothequeTP2.DAL\obj\Debug\net8.0\ref\BibliothequeTP2.DAL.dll

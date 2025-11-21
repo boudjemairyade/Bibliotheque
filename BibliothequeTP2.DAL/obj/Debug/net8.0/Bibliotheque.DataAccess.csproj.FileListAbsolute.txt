@@ -1,0 +1,15 @@
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\Bibliotheque.DataAccess\obj\Debug\net8.0\Bibliotheque.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\Bibliotheque.DataAccess\obj\Debug\net8.0\Bibliotheque.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\Bibliotheque.DataAccess\obj\Debug\net8.0\Bibliotheque.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\Bibliotheque.DataAccess\obj\Debug\net8.0\Bibliotheque.DataAccess.AssemblyInfo.cs
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\Bibliotheque.DataAccess\obj\Debug\net8.0\Bibliotheque.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\Bibliotheque.DataAccess\bin\Debug\net8.0\Bibliotheque.DataAccess.deps.json
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\Bibliotheque.DataAccess\bin\Debug\net8.0\Bibliotheque.DataAccess.dll
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\Bibliotheque.DataAccess\bin\Debug\net8.0\Bibliotheque.DataAccess.pdb
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\Bibliotheque.DataAccess\bin\Debug\net8.0\Bibliotheque.Models.dll
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\Bibliotheque.DataAccess\bin\Debug\net8.0\Bibliotheque.Models.pdb
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\Bibliotheque.DataAccess\obj\Debug\net8.0\Biblioth.D3B01B46.Up2Date
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\Bibliotheque.DataAccess\obj\Debug\net8.0\Bibliotheque.DataAccess.dll
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\Bibliotheque.DataAccess\obj\Debug\net8.0\refint\Bibliotheque.DataAccess.dll
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\Bibliotheque.DataAccess\obj\Debug\net8.0\Bibliotheque.DataAccess.pdb
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\Bibliotheque.DataAccess\obj\Debug\net8.0\ref\Bibliotheque.DataAccess.dll

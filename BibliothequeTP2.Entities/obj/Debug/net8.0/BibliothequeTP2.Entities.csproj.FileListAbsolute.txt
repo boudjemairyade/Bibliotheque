@@ -1,0 +1,11 @@
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\BibliothequeTP2.Entities\bin\Debug\net8.0\BibliothequeTP2.Entities.deps.json
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\BibliothequeTP2.Entities\bin\Debug\net8.0\BibliothequeTP2.Entities.dll
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\BibliothequeTP2.Entities\bin\Debug\net8.0\BibliothequeTP2.Entities.pdb
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\BibliothequeTP2.Entities\obj\Debug\net8.0\BibliothequeTP2.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\BibliothequeTP2.Entities\obj\Debug\net8.0\BibliothequeTP2.Entities.AssemblyInfoInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\BibliothequeTP2.Entities\obj\Debug\net8.0\BibliothequeTP2.Entities.AssemblyInfo.cs
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\BibliothequeTP2.Entities\obj\Debug\net8.0\BibliothequeTP2.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\BibliothequeTP2.Entities\obj\Debug\net8.0\BibliothequeTP2.Entities.dll
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\BibliothequeTP2.Entities\obj\Debug\net8.0\refint\BibliothequeTP2.Entities.dll
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\BibliothequeTP2.Entities\obj\Debug\net8.0\BibliothequeTP2.Entities.pdb
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\BibliothequeTP2.Entities\obj\Debug\net8.0\ref\BibliothequeTP2.Entities.dll

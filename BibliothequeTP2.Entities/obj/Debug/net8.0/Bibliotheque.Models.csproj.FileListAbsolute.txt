@@ -1,0 +1,11 @@
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\Bibliotheque.Models\bin\Debug\net8.0\Bibliotheque.Models.deps.json
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\Bibliotheque.Models\bin\Debug\net8.0\Bibliotheque.Models.dll
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\Bibliotheque.Models\bin\Debug\net8.0\Bibliotheque.Models.pdb
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\Bibliotheque.Models\obj\Debug\net8.0\Bibliotheque.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\Bibliotheque.Models\obj\Debug\net8.0\Bibliotheque.Models.AssemblyInfoInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\Bibliotheque.Models\obj\Debug\net8.0\Bibliotheque.Models.AssemblyInfo.cs
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\Bibliotheque.Models\obj\Debug\net8.0\Bibliotheque.Models.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\Bibliotheque.Models\obj\Debug\net8.0\Bibliotheque.Models.dll
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\Bibliotheque.Models\obj\Debug\net8.0\refint\Bibliotheque.Models.dll
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\Bibliotheque.Models\obj\Debug\net8.0\Bibliotheque.Models.pdb
+C:\Users\Administrator\OneDrive\Desktop\bibliotheque\Bibliotheque.Models\obj\Debug\net8.0\ref\Bibliotheque.Models.dll
