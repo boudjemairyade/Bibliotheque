@@ -1,0 +1,34 @@
+<mxfile>
+  <diagram id="rel1" name="Relationnel">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+
+        <mxCell id="tLivres" value="Livres&#10;IdLivre PK&#10;Titre&#10;Auteur&#10;Annee&#10;ISBN&#10;Categorie&#10;Quantite" 
+                style="rounded=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="200" height="160" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="tUsagers" value="Usagers&#10;IdUsager PK&#10;Nom&#10;Email&#10;Telephone" 
+                style="rounded=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="300" y="40" width="200" height="140" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="tEmprunts" value="Emprunts&#10;IdEmprunt PK&#10;DateEmprunt&#10;DateRetourPrevue&#10;IdLivre FK&#10;IdUsager FK" 
+                style="rounded=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="170" y="240" width="230" height="160" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="edge1" value="FK" edge="1" parent="1" source="tEmprunts" target="tLivres">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="edge2" value="FK" edge="1" parent="1" source="tEmprunts" target="tUsagers">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
